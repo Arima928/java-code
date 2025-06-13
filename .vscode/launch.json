@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "butterfly",
+            "request": "launch",
+            "mainClass": "butterfly",
+            "projectName": "coding_a102caa0"
+        },
+        {
+            "type": "java",
             "name": "zeroone",
             "request": "launch",
             "mainClass": "zeroone",
